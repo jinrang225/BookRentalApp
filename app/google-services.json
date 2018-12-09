@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "317244497696",
+    "firebase_url": "https://bookrental-a4858.firebaseio.com",
+    "project_id": "bookrental-a4858",
+    "storage_bucket": "bookrental-a4858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317244497696:android:d3a93376381cb942",
+        "android_client_info": {
+          "package_name": "com.example.annajin.bookrental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317244497696-tf7g52d2e6akskm3c43nkine1v71k2gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.annajin.bookrental",
+            "certificate_hash": "e202015810d3c2b0e63fe530c0aa505cd602aa5e"
+          }
+        },
+        {
+          "client_id": "317244497696-1qf5nri82pu2ngt0ibaunbhslj6knkem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkU-EzwQyVIyHInfoJLOTWCEJbWCKd1mg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317244497696-1qf5nri82pu2ngt0ibaunbhslj6knkem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
